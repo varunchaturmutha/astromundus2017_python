@@ -21,7 +21,7 @@ cd PYTHON_COURSE
 **!!! you have to do this only the first time !!!**
 
 ```bash
-git clone https://github.com/marcogullieuszik/astromundus2017_python.git
+git clone https://github.com/varunchaturmutha/astromundus2017_python.git
 ```
 
 
