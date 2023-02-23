@@ -1,13 +1,3 @@
-# Activate python3.6
-The following two commands activate python on the computer
-in the computer room at the Innsbruck University.
-
-```bash
-module available
-
-module load python/miniconda3
-```
-
 # create a working directory
 
 ```bash
